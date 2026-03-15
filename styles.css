@@ -111,11 +111,11 @@ h2{
      - Set the line-height to 1.8
      - Set the font-style to italic
 --------------------------------------------------------------- */
-into{
+.into{
    font-size:1.1rem;
    line-height:1.8;
    font-style:italic;
-
+}
 
 /* ---------------------------------------------------------------
    EXERCISE 9 — Hobbies List
